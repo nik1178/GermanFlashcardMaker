@@ -58,6 +58,9 @@ public class TranslateWord{
             }
             allUsableWords[i]=currentWord;
         }
+        System.out.println("Prasen starts at: " + prasenStartsAt);
+        System.out.println("Prateritum starts at: " + prateriumStartsAt);
+        System.out.println("Perfekt starts at: " + perfektStartsAt);
         System.out.println("Got all the folds. There are " + allUsableWords.length + " usable words.");
 
         //add the folds to logical arrays--------------------------------
@@ -66,7 +69,7 @@ public class TranslateWord{
         String perfekt = "";
         for(int i = 0; i<6; i++){
             prasenFolds[i] = allUsableWords[prasenStartsAt+i];
-            prateriumFolds[i] = allUsableWords[prasenStartsAt+i];
+            prateriumFolds[i] = allUsableWords[prateriumStartsAt+i];
         }
         perfekt = allUsableWords[perfektStartsAt];
         System.out.println("Made arrays of correct words");
@@ -122,7 +125,7 @@ public class TranslateWord{
                 case 5: pasteReady+="sind"; break;
                 default: pasteReady+="Something went wrong when finding folds."; break;
             }
-            pasteReady+="\t" + prasenFolds[i] + "\t\t" + prasenFolds[i];
+            pasteReady+="\t" + prasenFolds[i] + "\t\t" + prateriumFolds[i];
             if(i<5) pasteReady+="\n";
         }
         System.out.println("Made paste-ready string");

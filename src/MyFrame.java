@@ -17,13 +17,19 @@ public class MyFrame extends JFrame {
         keyboardHook.addKeyListener(new GlobalKeyAdapter() {
             @Override
             public void keyReleased(GlobalKeyEvent e) {
+
                 if(!run){
                     if (e.getVirtualKeyCode() == GlobalKeyEvent.VK_ESCAPE) {
                         run = true;
                     }
+                } else{
+                    if (e.getVirtualKeyCode() == GlobalKeyEvent.VK_ESCAPE) {
+                        run = false;
+                    }
                 }
                 if(!run) return;
-                // TODO Auto-generated method stub
+
+
                 /* System.out.println(e.getVirtualKeyCode()); */
                 if(e.getVirtualKeyCode()==13){
                     try{
@@ -32,9 +38,7 @@ public class MyFrame extends JFrame {
                         System.out.println("Something went wrong when creating the flashcard.");
                     }
                 }
-                if (e.getVirtualKeyCode() == GlobalKeyEvent.VK_ESCAPE) {
-					run = false;
-				}
+                
             }
         });
 
@@ -66,7 +70,7 @@ public class MyFrame extends JFrame {
                 System.out.println("Failed to make flashcard");
                 return;
             }
-
+            
             sloWord = removeSumniki(sloWord);
             System.out.println("SloWord: " + sloWord);
             gerWord = TranslateWord.translateWord(sloWord);
@@ -83,6 +87,8 @@ public class MyFrame extends JFrame {
         TranslateWord.foldWord(gerWord);
 
         pasteFromClipboard();
+        moveMouse(mouseStartX, mouseStartY);
+
     }
 
     String clipboardResult = "";
@@ -176,7 +182,7 @@ public class MyFrame extends JFrame {
             Robot robot = new Robot();
 
             //move to other side of screen
-            robot.mouseMove(mouseEndX, mouseEndY);
+            moveMouse(mouseEndX, mouseEndY);
             Thread.sleep(20);
 
             //click once
@@ -185,6 +191,16 @@ public class MyFrame extends JFrame {
 
             //ctrl+v to paste result
             pressCtrlplus('v');
+
+        }catch(Exception e){
+            System.out.println("Couldn't paste from clipboard");
+        }
+    }
+
+    public void moveMouse(int x, int y){
+        try{
+            Robot robot = new Robot();
+            robot.mouseMove(x, y);
 
         }catch(Exception e){
             System.out.println("Couldn't paste from clipboard");
