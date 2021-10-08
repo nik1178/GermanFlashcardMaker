@@ -5,8 +5,8 @@
 <!DOCTYPE html>
 <html lang="de" dir="ltr">
 <head><title>
-	Konjugation Deutsch: Zukunft, Partizip, Konjugationstabellen | Reverso Konjugator
-</title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset="utf-8" /><meta id="metaDescription" name="description" content="Verb Konjugation: Konjugator für deutsche Verben, unregelmäßige Verben, Hilfsverben, reflexive Verben in allen Zeiten und Modis" /><meta name="google" value="notranslate" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="preconnect" crossorigin="" href="https://sdk.privacy-center.org" /><link rel="preconnect" crossorigin="" href="https://www.googletagmanager.com" /><link rel="preconnect" crossorigin="" href="https://www.google-analytics.com" /><meta name="theme-color" content="#0970ac" /><meta name="GOOGLEBOT" content="NOARCHIVE" /><base id="baseHref" href="https://konjugator.reverso.net/"></base><link rel='alternate' href="https://conjugator.reverso.net/conjugation-german.html" hreflang='en-US'/> <link rel='alternate' href="https://conjugueur.reverso.net/conjugaison-allemand.html" hreflang='fr-FR'/> <link rel='alternate' href="https://conjugador.reverso.net/conjugacion-aleman.html" hreflang='es-ES'/> <link rel='alternate' href="https://konjugator.reverso.net/konjugation-deutsch.html" hreflang='de-DE'/> <link rel='alternate' href="https://coniugazione.reverso.net/coniugazione-tedesco.html" hreflang='it-IT'/> <link rel='alternate' href="https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%AA.html" hreflang='he'/> <link rel='alternate' href="https://conjugacao.reverso.net/conjugacao-alemao.html" hreflang='pt-PT'/> <link rel='alternate' href="https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9.html" hreflang='ru-RU'/> <link rel='alternate' href="https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9.html" hreflang='ar'/> <link rel='alternate' href="https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E.html" hreflang='ja'/><link rel='canonical' href='https://konjugator.reverso.net/konjugation-deutsch.html' />
+	Konjugation hängen | Konjugieren verb hängen | Reverso Konjugator Deutsch
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset="utf-8" /><meta id="metaDescription" name="description" content="Konjugation Verb hängen auf Deutsch: Partizip, Präteritum, Indikativ, unregelmäßige Verben. Definition und die Übersetzung im Kontext von hängen" /><meta name="google" value="notranslate" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="preconnect" crossorigin="" href="https://sdk.privacy-center.org" /><link rel="preconnect" crossorigin="" href="https://www.googletagmanager.com" /><link rel="preconnect" crossorigin="" href="https://www.google-analytics.com" /><meta name="theme-color" content="#0970ac" /><meta name="GOOGLEBOT" content="NOARCHIVE" /><base id="baseHref" href="https://konjugator.reverso.net/"></base><link rel='alternate' href="https://conjugator.reverso.net/conjugation-german-verb-h%C3%A4ngen.html" hreflang='en-US'/> <link rel='alternate' href="https://conjugueur.reverso.net/conjugaison-allemand-verbe-h%C3%A4ngen.html" hreflang='fr-FR'/> <link rel='alternate' href="https://conjugador.reverso.net/conjugacion-aleman-verbo-h%C3%A4ngen.html" hreflang='es-ES'/> <link rel='alternate' href="https://konjugator.reverso.net/konjugation-deutsch-verb-h%C3%A4ngen.html" hreflang='de-DE'/> <link rel='alternate' href="https://coniugazione.reverso.net/coniugazione-tedesco-verbo-h%C3%A4ngen.html" hreflang='it-IT'/> <link rel='alternate' href="https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%AA-%D7%A4%D7%A2%D7%9C-h%C3%A4ngen.html" hreflang='he'/> <link rel='alternate' href="https://conjugacao.reverso.net/conjugacao-alemao-verbo-h%C3%A4ngen.html" hreflang='pt-PT'/> <link rel='alternate' href="https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB-h%C3%A4ngen.html" hreflang='ru-RU'/> <link rel='alternate' href="https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%B9%D9%84-h%C3%A4ngen.html" hreflang='ar'/> <link rel='alternate' href="https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E-%E5%8B%95%E8%A9%9E-h%C3%A4ngen.html" hreflang='ja'/><link rel='canonical' href="https://konjugator.reverso.net/konjugation-deutsch-verb-h%C3%A4ngen.html" />
     <link rel="ICON" type="image" href="//cdn.reverso.net/conj/v2510/IMG/ReversoFavicon.ico" />
 
     
@@ -57,7 +57,9 @@
             (rumjs.gaque.q = rumjs.gaque.q || []).push(arguments);
         };
 
-        rumjs.gaque('send', 'pageview', '/interf-DE/DE/home');
+        rumjs.gaque('send', 'pageview', '/interf-DE/DE/result/hängen');
+        
+        rumjs.gaque('send', 'event', 'cache', 'no');
         
 
         rumjs.que.push(function () {
@@ -72,8 +74,8 @@
         ramjs.que = ramjs.que || [];
 
         
-        var tagsArray = ['Reverso_Conj_M_Home_300x250_BTF'];
-        var visibleTagsArray = [];
+        var tagsArray = ['Reverso_Conj_M_Result_320x50_ATF','Reverso_Conj_M_Result_300x250_BTF'];
+        var visibleTagsArray = ['Reverso_Conj_M_Result_320x50_ATF'];
         var hasRichMedia = false;
         //Remove rich media tag if adblocker exists. Assume that it is a last element (see code above)
         if (typeof (abp) != 'undefined' && abp && hasRichMedia) {
@@ -358,11 +360,11 @@
         <div class="wrapper-form-bg1">
             <div class="wrapper-form-bg-2">
                 <div class="wrapper-form-bg-21">
-                    <form method="post" action="./konjugation-deutsch-verb-.html?lang=de&amp;language=de&amp;verb=" id="form1">
+                    <form method="post" action="./konjugation-deutsch-verb-hängen.html?lang=de&amp;language=de&amp;verb=h%u00e4ngen" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY3MDk3NjEwOWRkLz4wnKZau+Y4Epo4Dhp8ks9eARM=" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAnpguJSjV1YuTEkPBlJPPIq/c1668KeTX7ewZVPtS58HEbbD3k8y7hsnamDP/JrZ/3j4P/h8974L8b20dCu9nyKk8EXyGkGv3o076ZKCTV/U3ST8gOkvijv4j8VrbXIh46en8ttNRVPVEi4izPJgPRwwfuxjx6LICU+wFM4aADhRKr+rokZjTusMXu82LcU8/vJZ1635vXVXvv3/4khE8+PvZN2tA==" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA3pguJSjV1YuTEkPBlJPPIq/c1668KeTX7ewZVPtS58HEbbD3k8y7hsnamDP/JrZ/3j4P/h8974L8b20dCu9nyKk8EXyGkGv3o076ZKCTV/U3ST8gOkvijv4j8VrbXIh46en8ttNRVPVEi4izPJgPRwwfuxjx6LICU+wFM4aADhRKr+rokZjTusMXu82LcU8/tFvnTVpntfLdNYMcTsbDjcvuvfXzlH8pkz06LgUUyML01SdKNW+sfUG/rMWhP8m7pE8TLJ4yTT+OdSlDC1HGac461hctVv+8kmzKPNvTWAtPpokxg=" />
                         <input type="hidden" name="ctl00$hidConjugation" id="hidConjugation" value="Konjugation" />
                         <input type="hidden" name="ctl00$hidConjugator" id="hidConjugator" value="Konjugator" />
                         <input type="hidden" name="ctl00$hidVerb" id="hidVerb" value="Verb" />
@@ -383,7 +385,7 @@
                                             <div class="conjForm">
                                                 <div class="input-wrap">
                                                     <label for="txtVerb" id="txtVerbLabel" class="hide-element">Tragen Sie ein Verb im Infinitiv oder in seiner konjugierten Form ein, um seine Konjugationstabelle zu erhalten</label>
-                                                    <input name="ctl00$txtVerb" type="text" id="txtVerb" class="verbbox keyboardInput" autocapitalize="off" tooltip="Tragen Sie ein Verb im Infinitiv oder in seiner konjugierten Form ein, um seine Konjugationstabelle zu erhalten" />
+                                                    <input name="ctl00$txtVerb" type="text" value="hängen" id="txtVerb" class="verbbox keyboardInput" autocapitalize="off" tooltip="Tragen Sie ein Verb im Infinitiv oder in seiner konjugierten Form ein, um seine Konjugationstabelle zu erhalten" />
                                                     
                                                     <a class="reset-search" onclick="clearSearch();">X</a>
                                                 </div>
@@ -415,7 +417,7 @@
                                             
                                         </div>
 
-                                         <h1 class="bigger">Konjugation Verb auf Deutsch</h1>
+                                         <h1 class="bigger">Konjugation Verb <b>hängen</b></h1>
                                          
 
                                         <div class="righttoolboxWrap clearfix grey-bg">
@@ -444,220 +446,170 @@
                                         </div>
                                     </div>
                                     
-    
-    <div id="ch_popularVerbs" class="rightverbs">
-        <div class="verb-of-day">
-            <p>Verb des Tages: </p>
-            <div class="verb-results-wrapper">
-                <a id="verbDay" class="verb-result-link" href="konjugation-deutsch-verb-vereinen.html">vereinen</a>
-                
-                <a href="#" id="verbDaySynonym"  title="Synonyme">
-                    <span class="icon icon-synonyms"></span>
-                </a>
-                <a href="#" id="verbDayCtx"  title="Übersetzung im Kontext">
-                   
-                    <span class="icon context-search"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></span>
-                </a>
-            </div>
-        </div>
-        <div id="ch_ExtrasVerbs" class="listverbs"><div>
-  <p>Beliebteste Verben</p>
-  <ol>
-    <li>
-      <a href="konjugation-deutsch-verb-sein.html">sein</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-machen.html">machen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-haben.html">haben</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-gehen.html">gehen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-sehen.html">sehen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-lesen.html">lesen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-kommen.html">kommen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-werden.html">werden</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-sprechen.html">sprechen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-nehmen.html">nehmen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-arbeiten.html">arbeiten</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-wollen.html">wollen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-wissen.html">wissen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-sagen.html">sagen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-schlafen.html">schlafen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-geben.html">geben</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-k%C3%B6nnen.html">können</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-vergessen.html">vergessen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-helfen.html">helfen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-trinken.html">trinken</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-finden.html">finden</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-laufen.html">laufen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-lernen.html">lernen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-treffen.html">treffen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-leben.html">leben</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-m%C3%BCssen.html">müssen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-finden.html">finden</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-tun.html">tun</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-sollen.html">sollen</a>
-    </li>
-    <li>
-      <a href="konjugation-deutsch-verb-lassen.html">lassen</a>
-    </li>
-  </ol>
-</div></div>
-    </div>
-    
-                        <div id='div-gpt-ad-Reverso_Conj_M_Home_300x250_BTF' style='height:250px; width:300px;' class='bunner-img bbottom'>
-                            <script type='text/javascript'>
-                                ramjs.que.push(function () { ramjs.business.displayGoogletagSlot('div-gpt-ad-Reverso_Conj_M_Home_300x250_BTF') });
-                            </script>
-                        </div>
+    <div id="ch_divConjugatorHeader" class="subHead subHead-res clearfix">
+        <div class="word-transl-options">
+			
+            <div id="ch_leftWordTransl" class="left-word-transl">
+
+                <div class="targetted-word-wrap">
+                    <span class="lang-word flag-res de"></span>
+                    <h2><a href="#" id="ch_lblVerb" class="targetted-word-transl" style="color: #0970ac;" tooltip="vorhandener Infinitiv">h&#228;ngen</a></h2>
+                </div>
+
+                <input name="ctl00$ch$hApiTranslated" type="hidden" id="ch_hApiTranslated" />
+
+              
+
+                <div class="top-icons-box">
                     
 
-    <ul class="listing-of-verbs">
-        
-        <li>
-            <a id="ch_frLink" href="https://konjugator.reverso.net/konjugation-franzosisch.html">
-                <span class="country-icon fr">
-                </span>
-               Französisch Verben</a>
-        </li>
-        
-        <li>
-            <a id="ch_enLink" href="https://konjugator.reverso.net/konjugation-englisch.html">
-                <span class="country-icon en">
-                </span>
-                Englisch Verben</a>
-        </li>
-        
-        <li>
-            <a id="ch_itLink" href="https://konjugator.reverso.net/konjugation-italienisch.html">
-                <span class="country-icon it">
-                </span>
-                Italienisch Verben</a>
-        </li>
-        
-        <li>
-            <a id="ch_esLink" href="https://konjugator.reverso.net/konjugation-spanisch.html">
-                <span class="country-icon es">
-                </span>
-                Spanisch Verben</a>
-        </li>
-        
-        <li>
-            <a id="ch_ptLink" href="https://konjugator.reverso.net/konjugation-portugiesisch.html">
-                <span class="country-icon pt">
-                </span>
-               Portugiesisch Verben</a>
-        </li>
-        
-        <li>
-            <a id="ch_heLink" href="https://konjugator.reverso.net/konjugation-hebr%C3%A4isch.html">
-                <span class="country-icon he">
-                </span>
-                Hebräisch Verben</a>
-        </li>
+                    <a id="lnkContext" title="Übersetzung im Kontext" style="display: none"><span class="icon context-search"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></span></a>
+                    <a id="lnkSynonyms" title="Synonyme" style="display: none"><span class="icon icon-synonyms"></span></a>
 
-		
-        <li>
-            <a id="ch_ruLink" href="https://konjugator.reverso.net/konjugation-russisch.html">
-                <span class="country-icon ru">
-                </span>
-               Russisch Verben</a>
-        </li>
-        
-        <li>
-            <a id="ch_arLink" href="https://konjugator.reverso.net/konjugation-arabisch.html">
-                <span class="country-icon ar">
-                </span>
-               Arabisch Verben</a>
-        </li>
-        
-            <li>
-                <a id="ch_jpLink" href="https://konjugator.reverso.net/konjugation-japanisch.html">
-                    <span class="country-icon jp">
-                    </span>
-                    Japanisch Verben</a>
-            </li>
-        
-    </ul>
-    <div id="ch_divLeft" class="homecontent">
-        <div id="ch_divWelcomeMessage" class="conjContent">
-            <div class="Section1">
-	<div class="Section1a">
-		<h2 class="content-head">Konjugation Verben auf Deutsch</h2>
-		<p>
-			Im Deutschen können Sie Verben im Infinitiv eintragen, z.B. as "<a href="https://konjugator.reverso.net/konjugation-deutsch-verb-machen.html"target="_self">machen</a>", "<a href="https://konjugator.reverso.net/konjugation-deutsch-verb-sammeln.html"target="_self">sammeln</a>", aber auch konjugierte Verben wie <a href="https://konjugator.reverso.net/konjugation-deutsch-verb-mache.html"target="_self">mache</a>, <a href="https://konjugator.reverso.net/konjugation-deutsch-verb-geliebt.html"target="_self">geliebt</a>. Der Konjugator erkennt zusammengesetzte Verben sowie pronominale (<a href="https://konjugator.reverso.net/konjugation-deutsch-verb-sich%20rasieren.html"target="_self">sich rasieren</a>) und verneinte Infinitivforme  (<a href="https://konjugator.reverso.net/konjugation-deutsch-verb-nicht%20machen.html"target="_self">nicht machen</a>) , und Trennbare / Nicht Trennbare Verben (z.B.: be-, ge-, heraus-, vorweg-).       
-		</p>
-		<p>
-			Der Konjugator benutzt Konjugationsregeln wie die <a href="https://konjugator.reverso.net/konjugation-rules-vorlage-deutsch.html">Tabellen</a>. Sie können auf das entsprechende Register klicken, um mehr zu lernen.
-		</p>
-		<p>Der Abschnitt <a href="https://konjugator.reverso.net/deutsch-konjugation-infos-tipps.html" target="_self">Infos und Tipps</a> enthält Informationen über die primären Konjugationsregeln für deutsche Verben, grammatikalische Informationen darüber, wie sie verwendet werden und welche Bedeutungen sie ausdrücken können.
-		</p>
-	</div>
-	<div class="foopage">
-		<span class="icon icon-info"></span>
-		<p>
-			Der Konjugator erlaubt es dir jedes Verb zu konjugieren, solange es mit einem existierenden Model korreliert. Es könnte ein erfundene Verben sein oder Tippfehler aufweisen, es könnten auch Modewörter sein, welche in Konjugaturtabellen welche in <strong>twittern, googlen</strong> noch nicht aufgenommen wurden.
-		</p>
-	</div>
-</div>
+                    <a id="btnVoice" title="Aussprache" class="voice-button">
+                        <span class="icon icon-audio"></span>
+                    </a>
+                </div>
 
+                <span class="translate-arr icon-right-arrow"></span>
+                <div id="list-translations" class="word-translated-wrap" title="Übersetzung im Kontext" style="display:none">
+                    <span class="lang-word-translation flag-res de"></span>
+                    <p class="context-term"></p>
+                </div>
+                <div id="list-synonyms" class="word-translated-wrap" title="Synonyme" style="display:none">
+                    <span class="lang-word-translation icon-synonyms icon"></span>
+                    <p class="context-term"></p>
+                </div>
 
+                </div>
+
+                
+                    <a class="dd-button"
+                       
+                       >
+                        <span class="arrow-dd"></span>
+                    </a>
+                <a href="#" id="ch_lblPrint" class="print-btn" onclick="PrintConjResult(&quot;Konjugation von &lt;b>hängen&lt;/b> Verb auf Deutsch mit&quot;,&quot;©2019 Reverso Softissimo. Alle Rechte vorbehalten&quot;);return false;">
+                    <i class="hide-element">Drucken</i>
+                    <span class="icon-print"></span>
+                </a>
+        </div>
+        
+
+         <div class="alternate-versions">
+                
+                <div class="wrap-three-col">
+                    <p>
+                        <a href="https://konjugator.reverso.net/konjugation-rules-vorlage-deutsch.html" id="ch_lblModelPrev" class="graylink">Vorlage</a>:
+                        <span id="ch_lblModel"><a href='https://konjugator.reverso.net/konjugation-rules-vorlage-deutsch/vorlage-h%C3%A4ngen.html'>hängen</a></span>
+                    </p>
+                </div>
+                
+                <div class="wrap-three-col">
+                    <p>
+                        <span id="ch_lblAuxiliaryPrev">Hilfsverb</span>:
+                        <span id="ch_lblAuxiliary"><a href='konjugation-deutsch-verb-haben.html'>haben</a></span>
+                    </p>
+                </div>
+                
+                <div class="wrap-three-col">
+                    <p>
+                        <span id="ch_lblArray4">Andere Formen:</span>
+                        <span id="ch_lblAutreForm"><a href="konjugation-deutsch-verb-sich%20h%C3%A4ngen.html" rel="nofollow">sich hängen</a>/<a href="konjugation-deutsch-verb-nicht%20h%C3%A4ngen.html" rel="nofollow">nicht hängen</a></span>
+                    </p>
+                </div>
+                
+                <div class="wrap-three-col">
+                    
+                </div>
             </div>
+
+
+          <div class="expanded-dd-contents de">
+
+            
+            <div class="info-wrap-section">
+                <p><span class="icon icon-info"></span>
+                    <span id="ch_lblPtInfo">Doppelte Konjugation: 1) Regelmäßig: ich hänge / ich hängte / gehängt). 2) Unregelmäßig: Vokalwechsel zwischen Stamm des Präsens (ich hänge), Stamm des Präteritums (ich hing) und Stamm des Perfekts (gehangen). Diese doppelte Konjugation ist für das Verb hängen und Komposita gültig, außer aufhängen und einhängen</span></p>
+            </div>
+            
+            <div class="variants-wrap-block">
+                <p><span class="icon icon-alert"></span><span>Das Verb hat mehrere Konjugationsvarianten, die verschiedene Bedeutungen haben könnten. Bitte verwenden Sie das Menü, um eine oder alle Varianten auszuwählen.</span></p>
+                <div class="conjForm">
+                    <div class="select-wrap">
+                        <select name="ctl00$ch$dlsVariant" id="ch_dlsVariant" onchange="DoRedirectVariant();">
+	<option selected="selected" value="0">Alle</option>
+	<option value="1">Variante 1</option>
+	<option value="2">Variante 2</option>
+
+</select>
+                        <span class="icon icon-arrow"></span>
+                    </div>
+                </div>
+            </div>
+              
+        </div>
+
     </div>
     
+    
 
+    
+    <div class="word-wrap">
+        
+        <div id="ch_divSimple" class="word-wrap-simple"><div class="result-block-api"><div class="word-wrap-row"><div class="word-wrap-title"><h4>Indikativ</h4></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Indikativ Präsens"><p>Präsens</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="verbtxt">hänge</i></li><li><i class="graytxt">du </i><i class="verbtxt">hängst</i></li><li><i class="graytxt">er/sie/es </i><i class="verbtxt">hängt</i></li><li><i class="graytxt">wir </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">ihr </i><i class="verbtxt">hängt</i></li><li><i class="graytxt">Sie </i><i class="verbtxt">hängen</i></li></ul></div></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Indikativ Präteritum"><p>Präteritum</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="verbtxt">hing</i></li><li><i class="graytxt">du </i><i class="verbtxt">hingst</i></li><li><i class="graytxt">er/sie/es </i><i class="verbtxt">hing</i></li><li><i class="graytxt">wir </i><i class="verbtxt">hingen</i></li><li><i class="graytxt">ihr </i><i class="verbtxt">hingt</i></li><li><i class="graytxt">Sie </i><i class="verbtxt">hingen</i></li><li v="2"><i class="graytxt">ich </i><i class="verbtxt">hängte</i></li><li v="2"><i class="graytxt">du </i><i class="verbtxt">hängtest</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="verbtxt">hängte</i></li><li v="2"><i class="graytxt">wir </i><i class="verbtxt">hängten</i></li><li v="2"><i class="graytxt">ihr </i><i class="verbtxt">hängtet</i></li><li v="2"><i class="graytxt">Sie </i><i class="verbtxt">hängten</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Indikativ Futur I"><p>Futur I</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">werde </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">wirst </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">wird </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">werden </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">werdet </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">werden </i><i class="verbtxt">hängen</i></li></ul></div></div></div><div class="word-wrap-row"><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Indikativ Perfekt"><p>Perfekt</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">habe </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">hast </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">hat </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">haben </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">habt </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">haben </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li v="2"><i class="graytxt">ich </i><i class="auxgraytxt">habe </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">du </i><i class="auxgraytxt">hast </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="auxgraytxt">hat </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">wir </i><i class="auxgraytxt">haben </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">ihr </i><i class="auxgraytxt">habt </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">Sie </i><i class="auxgraytxt">haben </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Indikativ Plusquamperfekt"><p>Plusquamperfekt</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">hatte </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">hattest </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">hatte </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">hatten </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">hattet </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">hatten </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li v="2"><i class="graytxt">ich </i><i class="auxgraytxt">hatte </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">du </i><i class="auxgraytxt">hattest </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="auxgraytxt">hatte </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">wir </i><i class="auxgraytxt">hatten </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">ihr </i><i class="auxgraytxt">hattet </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">Sie </i><i class="auxgraytxt">hatten </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Indikativ Futur II"><p>Futur II</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">werde </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">wirst </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">wird </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">werden </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">werdet </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">werden </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">ich </i><i class="auxgraytxt">werde </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">du </i><i class="auxgraytxt">wirst </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="auxgraytxt">wird </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">wir </i><i class="auxgraytxt">werden </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">ihr </i><i class="auxgraytxt">werdet </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">Sie </i><i class="auxgraytxt">werden </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li></ul></div></div></div><div class="word-wrap-row"><div class="word-wrap-title"><h4>Konjunktiv I</h4></div><div class="wrap-three-col"><div class="blue-box-wrap alt-tense" mobile-title="Konjunktiv I Präsens"><p>Präsens</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="verbtxt">hänge</i></li><li><i class="graytxt">du </i><i class="verbtxt">hängest</i></li><li><i class="graytxt">er/sie/es </i><i class="verbtxt">hänge</i></li><li><i class="graytxt">wir </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">ihr </i><i class="verbtxt">hänget</i></li><li><i class="graytxt">Sie </i><i class="verbtxt">hängen</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap alt-tense" mobile-title="Konjunktiv I Futur I"><p>Futur I</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">werde </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">werdest </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">werde </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">werden </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">werdet </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">werden </i><i class="verbtxt">hängen</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap alt-tense" mobile-title="Konjunktiv I Perfekt"><p>Perfekt</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">habe </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">habest </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">habe </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">haben </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">habet </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">haben </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li v="2"><i class="graytxt">ich </i><i class="auxgraytxt">habe </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">du </i><i class="auxgraytxt">habest </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="auxgraytxt">habe </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">wir </i><i class="auxgraytxt">haben </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">ihr </i><i class="auxgraytxt">habet </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">Sie </i><i class="auxgraytxt">haben </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li></ul></div></div></div><div class="word-wrap-row"><div class="word-wrap-title two-col-right"><h4>Konjunktiv II</h4></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap alt-tense" mobile-title="Konjunktiv I Futur II"><p>Futur II</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">werde </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">werdest </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">werde </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">werden </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">werdet </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">werden </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">ich </i><i class="auxgraytxt">werde </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">du </i><i class="auxgraytxt">werdest </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="auxgraytxt">werde </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">wir </i><i class="auxgraytxt">werden </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">ihr </i><i class="auxgraytxt">werdet </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">Sie </i><i class="auxgraytxt">werden </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li></ul></div></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Konjunktiv II Präteritum"><p>Präteritum</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="verbtxt">hinge</i></li><li><i class="graytxt">du </i><i class="verbtxt">hingest</i></li><li><i class="graytxt">er/sie/es </i><i class="verbtxt">hinge</i></li><li><i class="graytxt">wir </i><i class="verbtxt">hingen</i></li><li><i class="graytxt">ihr </i><i class="verbtxt">hinget</i></li><li><i class="graytxt">Sie </i><i class="verbtxt">hingen</i></li><li v="2"><i class="graytxt">ich </i><i class="verbtxt">hängte</i></li><li v="2"><i class="graytxt">du </i><i class="verbtxt">hängtest</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="verbtxt">hängte</i></li><li v="2"><i class="graytxt">wir </i><i class="verbtxt">hängten</i></li><li v="2"><i class="graytxt">ihr </i><i class="verbtxt">hängtet</i></li><li v="2"><i class="graytxt">Sie </i><i class="verbtxt">hängten</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Konjunktiv II Futur I"><p>Futur I</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">würde </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">würdest </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">würde </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">würden </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">würdet </i><i class="verbtxt">hängen</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">würden </i><i class="verbtxt">hängen</i></li></ul></div></div></div><div class="word-wrap-row"><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Konjunktiv II Plusquamperfekt"><p>Plusquamperfekt</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">hätte </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">hättest </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">hätte </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">hätten </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">hättet </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">hätten </i><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li v="2"><i class="graytxt">ich </i><i class="auxgraytxt">hätte </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">du </i><i class="auxgraytxt">hättest </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="auxgraytxt">hätte </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">wir </i><i class="auxgraytxt">hätten </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">ihr </i><i class="auxgraytxt">hättet </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li><li v="2"><i class="graytxt">Sie </i><i class="auxgraytxt">hätten </i><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Konjunktiv II Futur II"><p>Futur II</p><ul class="wrap-verbs-listing"><li><i class="graytxt">ich </i><i class="auxgraytxt">würde </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">du </i><i class="auxgraytxt">würdest </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">er/sie/es </i><i class="auxgraytxt">würde </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">wir </i><i class="auxgraytxt">würden </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">ihr </i><i class="auxgraytxt">würdet </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li><i class="graytxt">Sie </i><i class="auxgraytxt">würden </i><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">ich </i><i class="auxgraytxt">würde </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">du </i><i class="auxgraytxt">würdest </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">er/sie/es </i><i class="auxgraytxt">würde </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">wir </i><i class="auxgraytxt">würden </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">ihr </i><i class="auxgraytxt">würdet </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="graytxt">Sie </i><i class="auxgraytxt">würden </i><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li></ul></div></div><div class="wrap-three-col"><div class="word-wrap-title"><h4>Imperativ Präsens</h4></div><div class="blue-box-wrap alt-tense" mobile-title="Imperativ Präsens"><ul class="wrap-verbs-listing"><li><i class="verbtxt">hänge </i><i class="graytxt">(du)</i></li><li><i class="verbtxt">hängen </i><i class="graytxt">wir</i></li><li><i class="verbtxt">hängt </i><i class="graytxt">ihr</i></li><li><i class="verbtxt">hängen </i><i class="graytxt">Sie</i></li><li v="2"><i class="verbtxt">häng </i><i class="graytxt">(du)</i></li><li v="2"><i class="verbtxt">hängen </i><i class="graytxt">wir</i></li><li v="2"><i class="verbtxt">hängt </i><i class="graytxt">ihr</i></li><li v="2"><i class="verbtxt">hängen </i><i class="graytxt">Sie</i></li></ul></div></div></div><div class="word-wrap-row"><div class="word-wrap-title two-col-left"><h4>Partizip</h4></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Partizip Präsens"><p>Präsens</p><ul class="wrap-verbs-listing top2"><li><i class="verbtxt">hängend</i></li></ul></div></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Partizip Perfekt"><p>Perfekt</p><ul class="wrap-verbs-listing top3"><li><i class="particletxt">ge</i><i class="verbtxt">hangen</i></li><li v="2"><i class="particletxt">ge</i><i class="verbtxt">hängt</i></li></ul></div></div><div class="wrap-three-col"><div class="word-wrap-title"><h4>Infinitiv</h4></div><div class="blue-box-wrap alt-tense" mobile-title="Infinitiv Präsens"><p>Präsens</p><ul class="wrap-verbs-listing top1"><li><i class="verbtxt">hängen</i></li></ul></div></div></div><div class="word-wrap-row"><div class="wrap-three-col" c="1"><div class="blue-box-wrap alt-tense" mobile-title="Infinitiv Perfekt"><p>Perfekt</p><ul class="wrap-verbs-listing"><li><i class="particletxt">ge</i><i class="verbtxt">hangen </i><i class="auxgraytxt">haben</i></li><li v="2"><i class="particletxt">ge</i><i class="verbtxt">hängt </i><i class="auxgraytxt">haben</i></li></ul></div></div><div class="wrap-three-col"><div class="blue-box-wrap alt-tense" mobile-title="Infinitiv zu + Infinitiv"><p>zu + Infinitiv</p><ul class="wrap-verbs-listing"><li><i class="particletxt">zu </i><i class="verbtxt">hängen</i></li></ul></div></div></div></div></div>
+
+    </div>
+    
+                    <div id='div-gpt-ad-Reverso_Conj_M_Result_320x50_ATF' class="m-top-ad ad-slot">
+                        <script type='text/javascript'>
+                            ramjs.que.push(function () { ramjs.business.displayGoogletagSlot('div-gpt-ad-Reverso_Conj_M_Result_320x50_ATF') });
+                        </script>
+                    </div>
+                    <div class="ad-slot" id="div-gpt-ad-Reverso_Conj_M_Result_300x250_BTF">
+                        AD
+                        <script type='text/javascript'>
+                            ramjs.que.push(function () { ramjs.business.displayGoogletagSlot('div-gpt-ad-Reverso_Conj_M_Result_300x250_BTF') });
+                        </script>
+                    </div>
+				
+    <div class="word-wrap-descr">
+        
+    </div>
+
+
+	
+	<div class="righttoolboxWrap clearfix">
+		<div class="righttoolbox">
+
+			<a href="https://konjugator.reverso.net/konjugation-rules-vorlage-deutsch.html" id="ch_aModel">
+				<span id="ch_lblModels">Tabellen</span>
+			</a>
+		    
+		    
+			
+			
+			<a href="https://konjugator.reverso.net/deutsch-konjugation-infos-tipps.html" id="ch_aInfoAndTips">
+				<span id="ch_lblInfo">Infos und Tipps</span>
+			</a>
+		    
+			
+			
+			
+			
+			
+
+		    
+		    
+		    
+		</div>
+	</div>
+	
+
+    <div class="verb-info-repeat"></div>
+    <div class="verb-others-list">
+       Konjugiere auch: <a href="konjugation-deutsch-verb-lodern.html">lodern</a>, <a href="konjugation-deutsch-verb-klemmen.html">klemmen</a>, <a href="konjugation-deutsch-verb-besiegen.html">besiegen</a>, <a href="konjugation-deutsch-verb-reinkommen.html">reinkommen</a>, <a href="konjugation-deutsch-verb-kopieren.html">kopieren</a>, <a href="konjugation-deutsch-verb-internalisieren.html">internalisieren</a>, <a href="konjugation-deutsch-verb-h%C3%BClsen.html">hülsen</a>, <a href="konjugation-deutsch-verb-fl%C3%BCchten.html">flüchten</a>, <a href="konjugation-deutsch-verb-aufwickeln.html">aufwickeln</a>, <a href="konjugation-deutsch-verb-resultieren.html">resultieren</a>
+    </div>
     
 
     <div id="infoDialog" tabindex="-1" style="display: none;">Text in Zwischenablage kopiert</div>
@@ -787,7 +739,7 @@
     var _urlSynonyms = 'https://synonyms.reverso.net/synonym-woerterbuch/de/';
     var _urlSyonymsApi = 'https://synonyms.reverso.net/api/v2/search/';
     var _isDefaultPage = True;
-    var _isHomePage = True;
+    var _isHomePage = False;
     var _urls = {"en":{"home":"konjugation-englisch.html","result":"konjugation-englisch-verb-#.html","contracted":"konjugation-englisch-verb-#-contracted.html","v1":"konjugation-englisch-verb-#-v1.html","v2":"konjugation-englisch-verb-#-v2.html"},"fr":{"home":"konjugation-franzosisch.html","result":"konjugation-franzosisch-verb-#.html","contracted":"konjugation-franzosisch-verb-#-contracted.html","v1":"konjugation-franzosisch-verb-#-v1.html","v2":"konjugation-franzosisch-verb-#-v2.html"},"es":{"home":"konjugation-spanisch.html","result":"konjugation-spanisch-verb-#.html","contracted":"konjugation-spanisch-verb-#-contracted.html","v1":"konjugation-spanisch-verb-#-v1.html","v2":"konjugation-spanisch-verb-#-v2.html"},"de":{"home":"konjugation-deutsch.html","result":"konjugation-deutsch-verb-#.html","contracted":"konjugation-deutsch-verb-#-contracted.html","v1":"konjugation-deutsch-verb-#-v1.html","v2":"konjugation-deutsch-verb-#-v2.html"},"it":{"home":"konjugation-italienisch.html","result":"konjugation-italienisch-verb-#.html","contracted":"konjugation-italienisch-verb-#-contracted.html","v1":"konjugation-italienisch-verb-#-v1.html","v2":"konjugation-italienisch-verb-#-v2.html"},"he":{"home":"konjugation-hebräisch.html","result":"konjugation-hebräisch-verb-#.html","contracted":"konjugation-hebräisch-verb-#-contracted.html","v1":"konjugation-hebräisch-verb-#-v1.html","v2":"konjugation-hebräisch-verb-#-v2.html"},"pt":{"home":"konjugation-portugiesisch.html","result":"konjugation-portugiesisch-verb-#.html","contracted":"konjugation-portugiesisch-verb-#-contracted.html","v1":"konjugation-portugiesisch-verb-#-v1.html","v2":"konjugation-portugiesisch-verb-#-v2.html"},"ru":{"home":"konjugation-russisch.html","result":"konjugation-russisch-verb-#.html","contracted":"konjugation-russisch-verb-#-contracted.html","v1":"konjugation-russisch-verb-#-v1.html","v2":"konjugation-russisch-verb-#-v2.html"},"ar":{"home":"konjugation-arabisch.html","result":"konjugation-arabisch-verb-#.html","contracted":"konjugation-arabisch-verb-#.html","v1":"konjugation-arabisch-verb-#.html","v2":"konjugation-arabisch-verb-#.html"},"jp":{"home":"konjugation-japanisch.html","result":"konjugation-japanisch-verb-#.html","contracted":"konjugation-japanisch-verb-#.html","v1":"konjugation-japanisch-verb-#.html","v2":"konjugation-japanisch-verb-#.html"}};
 
     $(document).ready(function () {
@@ -806,88 +758,4 @@
         var _copyConfirm = "Text in Zwischenablage kopiert";
         var _urlReverso = "https://www.reverso.net/feedback.aspx?lang=";
         var _voiceInfo = {"Url":"https://voice.reverso.net/RestPronunciation.svc","Name":"Klaus22k","Timeout":3000,"Speed":85,"Limit":150};
-        var _feedbackMsg = "Ich möchte ein Problem melden: {lang} conjugator - {mode} {tense}; {person} : '{verb}'";
-        var _feedbackTitle = "Ein Problem melden";
-        var _voiceTitle = "Aussprache";
-        var _isRudeVerb = false;
-        var _isReflexiveVerb = false;
-
-        var _tenseNamesAr = {
-            active: "Aktiv <span class='ar-font'>الفِعْل المَبْنِي لِلمَعْلُوم</span>",
-            passive: "Passiv <span class='ar-font'>الفِعْل المَبْنِي لِلمَجْهُول</span>",
-            past: "Vergangenheit <span class='ar-font'>الْمَاضِي</span>",
-            present: "Präsens <span class='ar-font'>الْمُضَارِع</span>",
-            subjunctive: "Konjunktiv <span class='ar-font'>الْمُضَارِع الْمَنْصُوب</span>",
-            jussive: "Jussiv <span class='ar-font'>الْمُضَارِع الْمَجْزُوم</span>",
-            imperative: "Imperativ <span class='ar-font'>الْأَمْر</span>",
-            activeParticiple: "Particip aktiv <span class='ar-font'>اِسْم الْفَاعِل</span>",
-            passiveParticiple: "Particip passiv <span class='ar-font'>اِسْم الْمَفْعُول</span>",
-            activeParticiple1: "Aktiv <span class='ar-font'>اِسْم الْفَاعِل</span>",
-            passiveParticiple1: "Passiv <span class='ar-font'>اِسْم الْمَفْعُول</span>",
-            verbalNoun: "Verbalsubstantiv <span class='ar-font'>الْمَصْدَر</span>",
-            participle: "Partizip <span class='ar-font'>اِسْم</span>",
-            activePast: "Aktiv Vergangenheit <span class='ar-font'>الْفِعْل الْمَعْلُوم الْمَاضِي</span>",
-            activePresent: "Aktiv Präsens <span class='ar-font'>الْفِعْل الْمَعْلُوم الْمُضَارِع</span>",
-            activeSubjunctive: "Aktiver Konjunktiv <span class='ar-font'>الْفِعْل الْمَعْلُوم الْمُضَارِع الْمَنْصُوب</span>",
-            activeJussive: "Aktiv Jussiv <span class='ar-font'>الْفِعْل الْمَعْلُوم الْمُضَارِع الْمَجْزُوم</span>",
-            passivePast: "Passiv Vergangenheit <span class='ar-font'>الْفِعْل الْمَجْهُول الْمَاضِي</span>",
-            passivePresent: "Passiv Präsens <span class='ar-font'>الْفِعْل الْمَجْهُول الْمُضَارِع</span>",
-            passiveSubjunctive: "Konjunktiv Passiv <span class='ar-font'>الْفِعْل الْمَجْهُول الْمُضَارِع الْمَنْصُوب</span>",
-            passiveJussive: "Passiv Jussiv <span class='ar-font'>الْفِعْل الْمَجْهُول الْمُضَارِع الْمَجْزُوم </span>",
-        };
-        var _tenseNamesHe = {
-            past: "Past <span class='he-font'>עבר</span>",
-            present: "Present <span class='he-font'>הווה</span>",
-            future: "Future <span class='he-font'>עתיד</span>",
-            imperative: "Imperative <span class='he-font'>ציווי</span>",
-            infinitive: "Infinitive <span class='he-font'>שם פועל</span>",
-            passiveParticiple: "Participle Passive <span class='he-font'>בינוני פעול</span>"
-        };
-
-        $(document).ready(function () {
-            defaultLoad(false);
-        });
-
-    </script>
-    <script src="//cdn.reverso.net/conj/v2510/JS/in-view.min.js" type="text/javascript"></script>
-
-
-
-
-
-
-
-
-    <!--  Quantcast Tag -->
-    <script>
-        var ezt = ezt || [];
-
-        (function () {
-            var elem = document.createElement('script');
-            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-9z6v4xdJwT5Z-";
-            elem.async = true;
-            elem.type = "text/javascript";
-            var scpt = document.getElementsByTagName('script')[0];
-            scpt.parentNode.insertBefore(elem, scpt);
-        }());
-    </script>
-
-    <!--  Quantcast Tag -->
-    <script>
-        ezt.push({ qacct: 'p-9z6v4xdJwT5Z-', labels: 'conjugator', uid: '' });
-    </script>
-    <noscript>
-        <img src="//pixel.quantserve.com/pixel/p-9z6v4xdJwT5Z-.gif?labels=conjugator" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
-    </noscript>
-    <span id="btnScroll" class="scroll-to-top" onclick="scrollToTop();" title="Zurück nach oben"><span class="icon-top"><span class="path1"></span><span class="path2"></span></span></span>
-
-
-
-
-
-
-
-
-
-</body>
-<
+        var _feedbackMsg = "Ich mö
