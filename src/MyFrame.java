@@ -40,10 +40,10 @@ public class MyFrame extends JFrame {
             }
         });
 
-        this.setSize(0,0);
+        /* this.setSize(0,0);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
-        this.setVisible(true);
+        this.setVisible(true); */
     }
 
 }

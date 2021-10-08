@@ -125,10 +125,29 @@ public class TranslateWord{
                 case 5: pasteReady+="sind"; break;
                 default: pasteReady+="Something went wrong when finding folds."; break;
             }
-            pasteReady+="\t" + prasenFolds[i] + "\t\t" + prateriumFolds[i];
+            pasteReady+="\t" + prasenFolds[i] + "\t";
+            if(prasenFolds[i].length()<12) pasteReady+="\t";
+            pasteReady+=prateriumFolds[i];
             if(i<5) pasteReady+="\n";
         }
         System.out.println("Made paste-ready string");
+
+        //Convert ching cheng symbols to ä ü and ö
+        for(int i=0; i<pasteReady.length()-6; i++){
+            if(pasteReady.charAt(i)=='%'){
+                String currentSymbols = pasteReady.substring(i, i+6);
+                char newLetter = '/';
+                System.out.println(currentSymbols + " <--- current detected unknown symbol");
+                switch(currentSymbols){
+                    case "%C3%A4": newLetter = 'ä'; break;
+                    case "%C3%BC": newLetter = 'ü'; break;
+                    case "%C3%B6": newLetter = 'ö'; break;
+                    case "%C3%9F": newLetter = 'ß'; break;
+                    default: System.out.println("New unrecognized symbol"); break;
+                }
+                pasteReady = pasteReady.substring(0, i) + newLetter + pasteReady.substring(i+6);
+            }
+        }
 
         pushToClipboard(pasteReady);
     }

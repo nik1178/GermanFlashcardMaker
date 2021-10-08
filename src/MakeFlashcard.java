@@ -28,7 +28,7 @@ public class MakeFlashcard {
         if(mouseStartX<screenSize.getWidth()/2){
             sloWord = getFromClipboard();
             if(sloWord.equals("")){
-                System.out.println("Failed to make flashcard");
+                System.out.println("Got wrong word. Failed to make flashcard.");
                 return;
             }
 
@@ -40,7 +40,11 @@ public class MakeFlashcard {
             pressBackspace();
             mouseEndX = mouseStartX;
             gerWord = getFromClipboard();
-            System.out.println("Gor ger word: " + gerWord);
+            if(gerWord.equals("")){
+                System.out.println("Got wrong word. Failed to make flashcard.");
+                return;
+            }
+            System.out.println("Got ger word: " + gerWord);
         }
 
 
@@ -54,22 +58,18 @@ public class MakeFlashcard {
 
     String clipboardResult = "";
     String getFromClipboard(){
-        int repCounter = 0;
-        while(repCounter<1){
-            try{
-                Thread.sleep(100);
-                Toolkit toolkit = Toolkit.getDefaultToolkit();
-                Clipboard clipboard = toolkit.getSystemClipboard();
-                String result = (String) clipboard.getData(DataFlavor.stringFlavor);
-                if(result.length()<20) return result;
-                else {
-                    System.out.println("Read wrong result from clipboard: " + result.substring(0, 10) + "...");
-                }
-            }catch(Exception e){
-                System.out.println("Couldn't read from clipboard");
-                System.out.println(e);
+        try{
+            Thread.sleep(100);
+            Toolkit toolkit = Toolkit.getDefaultToolkit();
+            Clipboard clipboard = toolkit.getSystemClipboard();
+            String result = (String) clipboard.getData(DataFlavor.stringFlavor);
+            if(result.length()<20) return result;
+            else {
+                System.out.println("Read wrong result from clipboard: " + result.substring(0, 7) + "...");
             }
-            repCounter++;
+        }catch(Exception e){
+            System.out.println("Couldn't read from clipboard");
+            System.out.println(e);
         }
         return "";
     }
