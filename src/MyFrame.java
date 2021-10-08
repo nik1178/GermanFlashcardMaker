@@ -2,32 +2,54 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 import java.awt.datatransfer.*;
+import lc.kra.system.keyboard.event.*;
+import lc.kra.system.keyboard.*;
 
-public class MyFrame extends JFrame implements KeyListener{
+public class MyFrame extends JFrame {
     
     static String gerWord;
     static String sloWord;
+    static boolean run = true;
     MyFrame(){
 
-        this.addKeyListener(this);
+        //this.addKeyListener(this);
+        GlobalKeyboardHook keyboardHook = new GlobalKeyboardHook(true);
+        keyboardHook.addKeyListener(new GlobalKeyAdapter() {
+            @Override
+            public void keyReleased(GlobalKeyEvent e) {
+                if(!run){
+                    if (e.getVirtualKeyCode() == GlobalKeyEvent.VK_ESCAPE) {
+                        run = true;
+                    }
+                }
+                if(!run) return;
+                // TODO Auto-generated method stub
+                /* System.out.println(e.getVirtualKeyCode()); */
+                if(e.getVirtualKeyCode()==13){
+                    try{
+                        makeFlashcard();
+                    }catch(Exception ex){
+                        System.out.println("Something went wrong when creating the flashcard.");
+                    }
+                }
+                if (e.getVirtualKeyCode() == GlobalKeyEvent.VK_ESCAPE) {
+					run = false;
+				}
+            }
+        });
 
         this.setSize(0,0);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
         this.setVisible(true);
     }
-    @Override
-    public void keyReleased(KeyEvent e) {
-        // TODO Auto-generated method stub
-        System.out.println(e.getKeyCode());
-        if(e.getKeyCode()==10){
-            makeFlashcard();
-        }
-    }
 
     int mouseStartX, mouseStartY;
     int mouseEndX, mouseEndY;
     public void  makeFlashcard(){
+        pressCtrlplus('z');
+        pressCtrlplus('c');
+        
         System.out.println("\n\n\n\nNew word---------------------------------");
         PointerInfo pointer = java.awt.MouseInfo.getPointerInfo();
         mouseStartX = (int)pointer.getLocation().getX();
@@ -38,17 +60,27 @@ public class MyFrame extends JFrame implements KeyListener{
 
         //copyToClipboard();
         
-        sloWord = getFromClipboard();
-        if(sloWord.equals("")){
-            System.out.println("Failed to make flashcard");
-            return;
+        if(mouseStartX<screenSize.getWidth()/2){
+            sloWord = getFromClipboard();
+            if(sloWord.equals("")){
+                System.out.println("Failed to make flashcard");
+                return;
+            }
+
+            sloWord = removeSumniki(sloWord);
+            System.out.println("SloWord: " + sloWord);
+            gerWord = TranslateWord.translateWord(sloWord);
+        }else{
+            pressCtrlplus('y');
+            pressBackspace();
+            mouseEndX = mouseStartX;
+            gerWord = getFromClipboard();
+            System.out.println("Gor ger word: " + gerWord);
         }
 
-        sloWord = removeSumniki(sloWord);
-        System.out.println("SloWord: " + sloWord);
-        gerWord = TranslateWord.translateWord(sloWord);
+
         System.out.println(gerWord);
-        TranslateWord.foldWord();
+        TranslateWord.foldWord(gerWord);
 
         pasteFromClipboard();
     }
@@ -64,7 +96,7 @@ public class MyFrame extends JFrame implements KeyListener{
                 String result = (String) clipboard.getData(DataFlavor.stringFlavor);
                 if(result.length()<20) return result;
                 else {
-                    System.out.println("Read wrong result from clipboard");
+                    System.out.println("Read wrong result from clipboard: " + result.substring(0, 10) + "...");
                 }
             }catch(Exception e){
                 System.out.println("Couldn't read from clipboard");
@@ -100,7 +132,7 @@ public class MyFrame extends JFrame implements KeyListener{
             Thread.sleep(400);
 
             //ctrl+c to copy word
-            pressCopyButtons();
+            pressCtrlplus('c');
 
             Thread.sleep(200);
             
@@ -120,18 +152,22 @@ public class MyFrame extends JFrame implements KeyListener{
             System.out.println("Failed pressing left mouse button");
         }
     }
-    void pressCopyButtons(){
+    void pressCtrlplus(char letter){
+        String tempString = letter+"";
+        tempString = tempString.toUpperCase();
+        letter = tempString.charAt(0);
+        System.out.println(letter+ " <----this");
         try{
             Robot robot = new Robot();
             robot.keyPress(17);
             Thread.sleep(20);
-            robot.keyPress(67);
+            robot.keyPress((int) letter);
             Thread.sleep(20);
-            robot.keyRelease(67);
+            robot.keyRelease((int) letter);
             Thread.sleep(20);
             robot.keyRelease(17);
         }catch(Exception e){
-            System.out.println("Failed pressing copy buttons");
+            System.out.println("Failed pressing ctrl + letter");
         }
     }
 
@@ -144,32 +180,24 @@ public class MyFrame extends JFrame implements KeyListener{
             Thread.sleep(20);
 
             //click once
-            robot.mousePress(InputEvent.BUTTON1_DOWN_MASK);
-            robot.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
-            robot.mousePress(InputEvent.BUTTON1_DOWN_MASK);
-            robot.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
+            clickLeftMouse(1);
             Thread.sleep(20);
 
             //ctrl+v to paste result
-            robot.keyPress(17);
-            robot.keyPress(86);
-            robot.keyRelease(17);
-            robot.keyRelease(86);
+            pressCtrlplus('v');
 
         }catch(Exception e){
             System.out.println("Couldn't paste from clipboard");
         }
     }
 
-    @Override
-    public void keyTyped(KeyEvent e) {
-        // TODO Auto-generated method stub
-        
-    }
-
-    @Override
-    public void keyPressed(KeyEvent e) {
-        // TODO Auto-generated method stub
-        
+    public void pressBackspace(){
+        try{
+            Robot robot = new Robot();
+            robot.keyPress(KeyEvent.VK_BACK_SPACE);
+            robot.keyRelease(KeyEvent.VK_BACK_SPACE);
+        }catch(Exception e){
+            System.out.println("Failed pressing backspace");
+        }
     }
 }
